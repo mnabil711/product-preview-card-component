@@ -1,0 +1,22 @@
+body{
+    background-color: hsl(30, 38%, 92%);
+}
+h1 {
+    font-family: 'Fraunces', serif;
+}
+h3{
+    font-family: 'Fraunces', serif;
+}
+h5{
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 4px; 
+}
+p  {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.foot{
+    /* font-family: 'Fraunces', serif; */
+    font-family: 'Montserrat', sans-serif;
+}
+
