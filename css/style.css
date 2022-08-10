@@ -1,0 +1,25 @@
+body{
+    background-color: hsl(30, 38%, 92%) !important;
+}
+h1 {
+    font-family: 'Fraunces', serif;
+    line-height:1em;}
+h2{
+    font-family: 'Fraunces', serif;
+}
+h5{
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 4px; 
+}
+p  {
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 12px;
+    font-size: medium;
+    line-height: 1.2em;
+}
+
+.foot{
+    /* font-family: 'Fraunces', serif; */
+    font-family: 'Montserrat', sans-serif;
+}
+
